@@ -33,4 +33,4 @@ This is the second task for the amazing Cloud Datahub Hackathon!
 
 ## Line Chart
 
-<LineChart data="data.csv" xAxis="Date" yAxis="Open" yAxisType="temporal" fullWidth/>
+<LineChart data="data.csv" xAxis="Date" yAxis="Open"  fullWidth/>
