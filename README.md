@@ -34,3 +34,7 @@ This is the second task for the amazing Cloud Datahub Hackathon!
 ## Line Chart
 
 <LineChart data="data.csv" xAxis="Date" yAxis="Open"  />
+
+## PlotlyBarChart
+
+<PlotlyBarChart data="data.csv" xAxis="Date" yAxis="Open"  />
