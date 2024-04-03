@@ -37,4 +37,4 @@ This is the second task for the amazing Cloud Datahub Hackathon!
 
 ## PlotlyBarChart
 
-<PlotlyBarChart data="data.csv" xAxis="Date" yAxis="Open"  />
+<PlotlyBarChart url="data.csv" xAxis="Date" yAxis="Open"  />
