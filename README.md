@@ -33,4 +33,4 @@ This is the second task for the amazing Cloud Datahub Hackathon!
 
 ## Line Chart
 
-<Line data="data.csv">
+<LineChart data="data.csv"/>
