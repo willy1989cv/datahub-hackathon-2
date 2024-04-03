@@ -27,4 +27,4 @@ datapackage:
 
 #This is the second task for the amazing Cloud Datahub Hackathon!
 
-<Excel data="https://storage.portaljs.org/IC-Gantt-Chart-Project-Template-8857.xlsx" />
+<Excel url="data.csv" />
