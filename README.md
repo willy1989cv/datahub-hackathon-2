@@ -27,4 +27,4 @@ datapackage:
 
 #This is the second task for the amazing Cloud Datahub Hackathon!
 
-<Excel data="data.csv" />
+<Table data="data.csv" />
