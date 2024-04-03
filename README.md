@@ -25,6 +25,12 @@ datapackage:
             type: number
 ---
 
-#This is the second task for the amazing Cloud Datahub Hackathon!
+This is the second task for the amazing Cloud Datahub Hackathon!
+
+## Excel
 
 <Excel url="data.csv" />
+
+## Line Chart
+
+<Line data="data.csv">
